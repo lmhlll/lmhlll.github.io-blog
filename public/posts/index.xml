@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - My New Hugo Site</title>
+        <link>https://lmhlll.github.io/blog/posts/</link>
+        <description>All Posts | My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 09 Apr 2022 18:14:28 &#43;0800</lastBuildDate><atom:link href="https://lmhlll.github.io/blog/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://lmhlll.github.io/blog/first_post/</link>
+    <pubDate>Sat, 09 Apr 2022 18:14:28 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://lmhlll.github.io/blog/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
